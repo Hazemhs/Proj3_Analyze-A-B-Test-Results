@@ -1,4 +1,4 @@
-# Proj3 Analyze A/B Test Results
+# Analyze A/B Test Results
 
 ## Context
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
